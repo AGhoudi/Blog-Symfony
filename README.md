@@ -1,5 +1,4 @@
-![blog_symfony](https://user-images.githubusercontent.com/27373255/131920412-f6d45a99-00b1-4942-a1d8-dcc8cc23036e.png)
-<div align=center><img src="https://user-images.githubusercontent.com/27373255/131180724-f4b371b2-087a-4067-87bf-7550af64d3f5.png" alt="memory-game"/></div>
+<div align=center><img src="https://user-images.githubusercontent.com/27373255/131920412-f6d45a99-00b1-4942-a1d8-dcc8cc23036e.png" alt="blog-symfony"/></div>
 <h2 align=center>🎯 Objectif du projet :</h2>
 <p align=center>Création d'un blog à l'aide de Symfony.</p>
 
