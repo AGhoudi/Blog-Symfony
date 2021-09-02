@@ -6,8 +6,8 @@
 
 <p align=center>Création d'un blog à l'aide de Symfony, afin d'approfondir mes connaissances du framework.</p>
 
-<h2 align=center>👁️ Visuel :</h2>
-<div align=center><img src="https://i.postimg.cc/XvK18NBm/memory.jpg" alt="visuel du jeu"</div>
+<h2 align=center>👁️ Visuel :</h2></br>
+A venir...
 
 <h2 align=center>💻 Stack utilisé :</h2>
 
