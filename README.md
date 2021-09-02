@@ -7,7 +7,7 @@
 <p align=center>Création d'un blog à l'aide de Symfony, afin d'approfondir mes connaissances du framework.</p>
 
 <h2 align=center>👁️ Visuel :</h2></br>
-A venir...
+<p align=center>A venir...</p>
 
 <h2 align=center>💻 Stack utilisé :</h2>
 
@@ -16,4 +16,4 @@ A venir...
 <h2 align=center>🌐 Lien web du projet :</h2>
 
 <p align=center>Voici un lien pour visiter le blog:</br>
-A venir...
+<p align=center>A venir...</p>
